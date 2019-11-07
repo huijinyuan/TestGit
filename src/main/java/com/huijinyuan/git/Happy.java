@@ -6,6 +6,7 @@ public class Happy {
 		
 		System.out.println("Testing...");
 		System.out.println("Testing...again about the .gitignore.");
+		System.out.println("Create a new branch feature1.");
 		
 	}
 
